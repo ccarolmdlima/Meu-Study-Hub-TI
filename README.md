@@ -1,34 +1,59 @@
-# Study Hub — Carolina Maikuma Dias Lima
 
-Bem-vindo(a) ao meu Study Hub!
-
-Este repositório foi criado com o objetivo de organizar e documentar minha trajetória acadêmica no curso de Ciência da Computação.
+# Study Hub - Carolina Maikuma
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação, com interesse principalmente nas áreas de desenvolvimento web e front-end.
+Olá! Sou Carolina Maikuma Dias Lima, estudante de
+Ciência da Computação, da turma B de Bootcamp I.
 
-Busco desenvolver minhas habilidades técnicas por meio dos estudos, atividades acadêmicas e projetos práticos realizados durante minha formação.
+Tenho interesse principalmente nas áreas de
+desenvolvimento web e front-end.
 
-## Objetivo do Study Hub
+## Sobre o projeto
 
-O Study Hub tem como objetivo centralizar e organizar:
+O Study Hub é um projeto acadêmico desenvolvido
+durante a disciplina de Bootcamp I.
 
-- atividades e entregas acadêmicas;
-- anotações e resumos;
-- projetos desenvolvidos durante a graduação;
-- certificados;
-- conteúdos relevantes para meu desenvolvimento profissional.
+Seu objetivo é organizar e documentar minha
+trajetória acadêmica, reunindo atividades,
+anotações, projetos e certificados.
 
-## Estrutura
+Além disso, o projeto contribui para a construção
+do meu portfólio profissional na área de TI.
 
-O repositório está organizado nas seguintes áreas:
+## Tecnologias utilizadas
 
-- `01_Apresentacao_e_Perfil`
-- `02_Disciplinas_Atuais`
-- `03_Projetos_e_Certificados`
+- HTML5 - estrutura da página web
+- CSS3 - estilização e responsividade
+- JavaScript - base para funcionalidades
+- Git - controle de versões
+- GitHub - hospedagem do repositório
+- GitHub Pages - publicação do site
 
-## Disciplinas atuais
+## Estrutura do repositório
+
+### 01_Apresentacao_e_Perfil
+Informações pessoais, acadêmicas e currículo.
+
+### 02_Disciplinas_Atuais
+Atividades, anotações e materiais organizados
+por disciplina.
+
+### 03_Projetos_e_Certificados
+Projetos acadêmicos e certificados.
+
+### Arquivos do site
+- index.html
+- style.css
+- script.js
+
+## Site publicado
+
+Acesse o Study Hub:
+
+https://ccarolmdlima.github.io/Meu-Study-Hub-TI/
+
+## Disciplinas
 
 - Bootcamp I
 - Arquitetura de Sistemas Distribuídos
@@ -36,11 +61,26 @@ O repositório está organizado nas seguintes áreas:
 - Sistemas em Tempo Real e Embarcados
 - Testes e Qualidade de Software
 
-## Áreas de interesse
+## Como executar o projeto
 
-- Desenvolvimento Web
-- Desenvolvimento Front-end
+1. Clone este repositório.
+2. Abra a pasta do projeto.
+3. Execute o arquivo index.html em um navegador.
+
+## Versionamento
+
+O projeto utiliza Git para registrar alterações
+e acompanhar sua evolução.
+
+A versão inicial será identificada como v1.0.
 
 ## Contato
 
-LinkedIn: https://www.linkedin.com/in/carolina-maikuma-dias-lima-035848321/
+LinkedIn:
+https://www.linkedin.com/in/carolina-maikuma-dias-lima-035848321/
+
+## Autora
+
+Carolina Maikuma Dias Lima
+
+Ciência da Computação — Bootcamp I, Turma B
